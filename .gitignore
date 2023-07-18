@@ -1,0 +1,9 @@
+*.o
+*.c
+m2md_all
+m2md
+md2ipynb.ipynb
+Makefile
+md2ipynb
+source
+m2md.py
